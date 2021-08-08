@@ -1,6 +1,6 @@
 # JavaScript Obfuscator
 
-Simpled version of the oficial JavaScript Obfuscator (https://github.com/javascript-obfuscator/javascript-obfuscator-ui).
+Simplified version of the oficial JavaScript Obfuscator (https://github.com/javascript-obfuscator/javascript-obfuscator-ui).
 
 ## Web:
 
