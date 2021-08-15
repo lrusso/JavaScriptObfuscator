@@ -2,6 +2,8 @@
 
 JavaScript Obfuscator.
 
+![alt screenshot](https://raw.githubusercontent.com/lrusso/JavaScriptObfuscator/main/JavaScriptObfuscator.png)
+
 ## Web:
 
 https://lrusso.github.io/JavaScriptObfuscator/JavaScriptObfuscator.htm
