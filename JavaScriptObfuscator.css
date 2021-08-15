@@ -1,0 +1,14 @@
+html,body{background-color:#f7fafc;font-family:Arial;-webkit-user-select:none;-moz-user-select:none;user-select:none;-webkit-tap-highlight-color:transparent;touch-action:none;margin:0;padding:0}
+div{display:inline-block;width:48%;margin-left:1%;margin-top:1%}
+span{display:inline-block;width:100%;font-size:30px;margin-bottom:10px;color:#2d3748;cursor:default}
+textarea{display:inline-block;background-color:white;border:1px solid #e2e8f0;width:100%;resize:none}
+textarea:disabled{background-color:#CECECE;border:1px solid #e2e8f0}
+#buttonObfuscate{width:90px;background-color:#4299e1;border:1px solid #4299e1;border-radius:7px;font-size:15px;font-weight:bold;color:white;line-height:2.5;margin-top:5px;margin-bottom:10px;cursor:pointer}
+#buttonObfuscate:hover{background-color:#3182ce;border:1px solid #3182ce}
+#buttonClear{width:90px;background-color:#38b2ac;border:1px solid #38b2ac;border-radius:7px;font-size:15px;font-weight:bold;color:white;line-height:2.5;margin-top:5px;margin-bottom:10px;cursor:pointer}
+#buttonClear:hover{background-color:#319795;border:1px solid #319795}
+
+@media only screen and (orientation:portrait)
+	{
+	div{display:inline-block;width:97%;margin-right:0}
+	}
