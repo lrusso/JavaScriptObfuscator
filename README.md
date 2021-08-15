@@ -1,7 +1,11 @@
 # JavaScript Obfuscator
 
-Simplified version of the oficial JavaScript Obfuscator (https://github.com/javascript-obfuscator/javascript-obfuscator-ui).
+JavaScript Obfuscator.
 
 ## Web:
 
 https://lrusso.github.io/JavaScriptObfuscator/JavaScriptObfuscator.htm
+
+## Based on the work of:
+
+https://github.com/javascript-obfuscator/javascript-obfuscator-ui
