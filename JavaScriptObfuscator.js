@@ -35,7 +35,7 @@ self.addEventListener("message", function (e)
 					stringArrayWrappersChainedCalls: true,
 					stringArrayWrappersParametersMaxCount: 4,
 					stringArrayWrappersType: 'function',
-					stringArrayThreshold: 0.75,
+					stringArrayThreshold: 1,
 					transformObjectKeys: true,
 					unicodeEscapeSequence: false
 					}
